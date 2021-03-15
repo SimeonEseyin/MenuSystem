@@ -1,0 +1,9 @@
+Thin 'n Crispy Fries
+1.60
+90
+Cheese Fries
+2.60
+90
+Bacon Cheese Fries
+3.60
+20

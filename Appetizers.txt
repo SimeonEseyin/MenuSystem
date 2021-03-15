@@ -1,0 +1,15 @@
+Original Double 'n Cheese Steakburger 'n Fries
+1.99
+90
+Single 'n Cheese Steakburger 'n Fries
+2.99
+90
+Triple Steakburger 'n Fries
+3.99
+90
+Frisco Melt 'n Fries
+4.999
+90
+Jalapeño Crunch Steakburger 'n Fries
+5.99
+90
